@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/athul__lux" target="blank"><img src="https://img.shields.io/twitter/follow/athul__lux?logo=twitter&style=for-the-badge" alt="athul__lux" /></a> </p>
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently learning **Django framework and python programming**
 
 - 💬 Ask me about **Python,Django,HTML,Css**
 
