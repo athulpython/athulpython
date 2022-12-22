@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django framework and python programming**
 
-- 💬 Ask me about **Python,Django,HTML,Css**
+- 💬 Ask me about **Python , Django , HTML , CSS**
 
 - 📫 How to reach me **athulpanoor7@gmail.com**
 
